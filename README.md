@@ -73,6 +73,7 @@ and runtime warnings are retained. An existing run does not need this new copy.
 - `README.md`: project overview and dated status.
 - `REPRODUCIBILITY.md`: instructions and frozen checksums.
 - `tokenization-coarse-colab.ipynb`: standalone next-batch notebook.
+- `LICENSE`: full text of the CC BY 4.0 license.
 
 No manuscript PDF, historical result archives, private run logs, account tokens,
 or author metadata are deliberately added to this package.
@@ -84,5 +85,11 @@ theory, split-output communication, and hypergraph cut functions. It does not
 claim to originate those ingredients. The full manuscript bibliography should
 accompany any eventual manuscript release.
 
-This starter package does not assign authorship, a DOI, a publication
-venue, or a software license; the project owner must resolve release details.
+This starter package does not yet assign authorship, a DOI, or a publication
+venue.
+
+## License
+
+© 2026 Anonymous Authors. Released under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/);
+see [LICENSE](LICENSE) for the full text.
