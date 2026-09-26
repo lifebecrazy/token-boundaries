@@ -1,4 +1,4 @@
-# Token Boundaries as Communication Cuts
+# Token Boundaries and the Width of Shallow Transformers
 
 **Research in progress — experiment snapshot: September 25, 2026.**
 
@@ -8,8 +8,8 @@ histograms match. For a raw block `abc`, compare `[ab][c]` with `[a][bc]`: the
 first makes the interaction between `a` and `b` token-local, while the second
 makes the interaction between `b` and `c` token-local.
 
-The working manuscript is titled *Token Boundaries as Communication Cuts: Exact
-Raw-to-Token Accounting*. It studies distributed token-materialization costs,
+The working manuscript is titled *Token Boundaries and the Width of Shallow
+Transformers*. It studies distributed token-materialization costs,
 matched boundary allocations, endpoint task reversal, and two-layer repair in a
 specified causal finite-precision model. These are draft theoretical claims,
 not general claims about arbitrary tokenizers or production language models.
